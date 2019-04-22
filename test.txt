@@ -1,0 +1,2 @@
+my git file
+this file is used for git
